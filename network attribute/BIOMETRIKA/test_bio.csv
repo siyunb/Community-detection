@@ -1,0 +1,849 @@
+start_spot,start_spot_id,end_spot,end_spot_id
+multicategory angle-based large-margin classification,1,probability estimation for large-margin classifiers,805
+construction of orthogonal and nearly orthogonal designs for computer experiments,5,orthogonal and nearly orthogonal designs for computer experiments,423
+construction of orthogonal and nearly orthogonal designs for computer experiments,5,construction of orthogonal and nearly orthogonal latin hypercubes,439
+construction of orthogonal and nearly orthogonal designs for computer experiments,5,construction of orthogonal latin hypercube designs,675
+direct estimation of differential networks,6,joint estimation of multiple graphical models,757
+direct estimation of differential networks,6,a group bridge approach for variable selection,407
+direct estimation of differential networks,6,hierarchically penalized cox regression with grouped variables,405
+variance estimation in high-dimensional linear models,7,scaled sparse linear regression,529
+bayesian monotone regression using gaussian process projection,9,improving point and interval estimators of monotone functions by rearrangement,686
+latin hypercube designs with controlled correlations and multi-dimensional stratification,10,orthogonal and nearly orthogonal designs for computer experiments,423
+latin hypercube designs with controlled correlations and multi-dimensional stratification,10,a construction method for orthogonal latin hypercube designs,934
+logistic regression for spatial gibbs point processes,14,modelling the effects of partially observed covariates on poisson process intensity,883
+logistic regression for spatial gibbs point processes,14,estimating functions for inhomogeneous spatial point processes with incomplete covariate data,484
+a combined estimating function approach for fitting stationary point process models,15,a note on composite likelihood inference and model selection,992
+distances and inference for covariance operators,16,pairwise curve synchronization for functional data,448
+measurement bias and effect restoration in causal inference,17,graphical identifiability criteria for causal effects in studies with an unobserved treatment/response variable,875
+measurement bias and effect restoration in causal inference,17,on the idenfification of path analysis models with one hidden variable,1016
+propensity score adjustment with several follow-ups,18,using calibration weighting to adjust for nonresponse under a plausible model,462
+bootstrap for the case-cohort design,20,weighted estimating equations for semiparametric transformation models with censored data from a case-cohort design,1090
+bootstrap for the case-cohort design,20,semiparametric transformation models for the case-cohort study,968
+bootstrap for the case-cohort design,20,censored linear regression for case-cohort studies,890
+hypothesis testing for band size detection of high-dimensional banded precision matrices,21,covariance matrix selection and estimation via penalised normal likelihood,959
+hypothesis testing for band size detection of high-dimensional banded precision matrices,21,a new approach to cholesky-based covariance regularization in high dimensions,600
+hypothesis testing for band size detection of high-dimensional banded precision matrices,21,model selection and estimation in the gaussian graphical model,874
+"convergence of sample eigenvalues, eigenvectors, and principal component scores for ultra-high dimensional data",22,"the high-dimension, low-sample-size geometric representation holds under mild conditions",851
+efficient inference for spatial extreme value processes associated to log-gaussian random functions,26,conditional simulation of max-stable processes,503
+efficient inference for spatial extreme value processes associated to log-gaussian random functions,26,on the likelihood function of gaussian max-stable processes,754
+efficient inference for spatial extreme value processes associated to log-gaussian random functions,26,composite likelihood estimation for the brown-resnick process,97
+efficient inference for spatial extreme value processes associated to log-gaussian random functions,26,exploiting occurrence times in likelihood inference for componentwise maxima,1045
+efficient inference for spatial extreme value processes associated to log-gaussian random functions,26,dependence modelling for spatial extremes,559
+better subset regression,30,factor profiled sure independence screening,580
+graph estimation with joint additive models,31,extended bayesian information criteria for model selection with large model spaces,476
+graph estimation with joint additive models,31,penalized likelihood methods for estimation of sparse high-dimensional directed acyclic graphs,799
+graph estimation with joint additive models,31,a note on composite likelihood inference and model selection,992
+graph estimation with joint additive models,31,conditionally specified continuous distributions,474
+graph estimation with joint additive models,31,model selection and estimation in the gaussian graphical model,874
+sparse precision matrix estimation via lasso penalized d-trace loss,32,covariance matrix selection and estimation via penalised normal likelihood,959
+sparse precision matrix estimation via lasso penalized d-trace loss,32,model selection and estimation in the gaussian graphical model,874
+nonparametric estimation of a periodic sequence in the presence of a smooth trend,33,using the periodogram to estimate period in nonparametric regression,944
+on the stationary distribution of iterative imputations,34,parametric fractional imputation for missing data analysis,765
+retrospective-prospective symmetry in the likelihood and bayesian analysis of case-control studies,36,equivalence of prospective and retrospective models in the bayesian analysis of case-control studies,1105
+retrospective-prospective symmetry in the likelihood and bayesian analysis of case-control studies,36,on the equivalence of prospective and retrospective likelihood methods in case-control studies,796
+model averaging and weight choice in linear mixed-effects models,37,an asymptotic theory for model selection inference in general semiparametric problems,853
+model averaging and weight choice in linear mixed-effects models,37,conditional akaike information under generalized linear and proportional hazards mixed models,726
+model averaging and weight choice in linear mixed-effects models,37,on the behaviour of marginal and conditional aic in linear mixed models,785
+model averaging and weight choice in linear mixed-effects models,37,a note on conditional aic for linear mixed-effects models,477
+model averaging and weight choice in linear mixed-effects models,37,conditional akaike information for mixed-effects models,1017
+multivariate sign-based high-dimensional tests for sphericity,39,effects of data dimension on empirical likelihood,696
+multivariate sign-based high-dimensional tests for sphericity,39,testing for complete independence in high dimensions,986
+multivariate sign-based high-dimensional tests for sphericity,39,penalized high-dimensional empirical likelihood,791
+on adjustment for auxiliary covariates in additive hazard models for the analysis of randomized experiments,40,improving the efficiency of the log-rank test using auxiliary covariates,470
+"objective bayesian analysis for the student-t regression model (vol 95, pg 325, 2008)",42,objective bayesian analysis for the student-t regression model,482
+nonparametric bayes modelling of count processes,44,efficient gaussian process regression for large datasets,510
+nonparametric bayes modelling of count processes,44,hierarchical models for assessing variability among functions,1020
+nonparametric bayes modelling of count processes,44,auxiliary mixture sampling for parameter-driven models of time series of counts with applications to state space modelling,895
+practical perfect sampling using composite bounding chains: the dirichlet-multinomial model,45,approximating the alpha-permanent,691
+two-sample rank tests under complex sampling,46,horvitz-thompson estimators for functional data: asymptotic confidence bands and optimal allocation for stratified sampling,764
+variable selection in semiparametric transformation models for right-censored data,47,efficient estimation of semiparametric transformation models for counting processes,922
+variable selection in semiparametric transformation models for right-censored data,47,adaptive lasso for cox's proportional hazards model,845
+semiparametric estimation for the additive hazards model with left-truncated and right-censored data,48,a maximum pseudo-profile likelihood estimator for the cox model under length-biased sampling,593
+semiparametric estimation for the additive hazards model with left-truncated and right-censored data,48,a proportional likelihood ratio model,594
+smoothing splines with varying smoothing parameter,51,spatially adaptive smoothing splines,961
+"simple design-efficient calibration estimators for rejective and high-entropy sampling (vol 100, pg 399, 2013)",54,simple design-efficient calibration estimators for rejective and high-entropy sampling,88
+"'biometrika highlights from volume 28 onwards' (vol 100, pg 17, 2013)",55,biometrika highlights from volume 28 onwards,502
+controlling the bias of robust small-area estimators,56,a unified approach to robust estimation in finite population sampling,64
+controlling the bias of robust small-area estimators,56,m-quantile models for small area estimation,932
+controlling the bias of robust small-area estimators,56,influence functions and robust bayes and empirical bayes small area estimation,463
+high-dimensional volatility matrix estimation via wavelets and thresholding,57,a haar-fisz technique for locally stationary volatility estimation,926
+scaled envelopes: scale-invariant and efficient estimation in multivariate linear regression,58,inner envelopes: efficient estimation in multivariate linear regression,551
+scaled envelopes: scale-invariant and efficient estimation in multivariate linear regression,58,can the strengths of aic and bic be shared? a conflict between model indentification and regression estimation,985
+saddlepoint approximations for the normalizing constant of fisher-bingham distributions on products of spheres and stiefel manifolds,59,statistics of orthogonal axial frames,65
+saddlepoint approximations for the normalizing constant of fisher-bingham distributions on products of spheres and stiefel manifolds,59,saddlepoint approximations for the bingham and fisher-bingham normalising constants,1023
+saddlepoint approximations for the normalizing constant of fisher-bingham distributions on products of spheres and stiefel manifolds,59,on the estimation of an average rigid body motion,544
+designs for crossvalidating approximation models,60,orthogonal and nearly orthogonal designs for computer experiments,423
+designs for crossvalidating approximation models,60,construction of orthogonal and nearly orthogonal latin hypercubes,439
+designs for crossvalidating approximation models,60,sliced space-filling designs,673
+designs for crossvalidating approximation models,60,a construction method for orthogonal latin hypercube designs,934
+designs for crossvalidating approximation models,60,construction of orthogonal latin hypercube designs,675
+a simple test for random effects in regression models,61,exact likelihood ratio tests for penalised splines,1036
+posterior consistency in linear models under shrinkage priors,62,the horseshoe estimator for sparse signals,630
+continuously additive models for nonlinear functional regression,67,functional quadratic regression,638
+dimension reduction and predictor selection in semiparametric models,69,a generalized dantzig selector with shrinkage tuning,406
+dimension reduction and predictor selection in semiparametric models,69,sparse sufficient dimension reduction,839
+dimension reduction and predictor selection in semiparametric models,69,partial inverse regression,840
+dimension reduction and predictor selection in semiparametric models,69,a note on shrinkage sliced inverse regression,1048
+dimension reduction and predictor selection in semiparametric models,69,tuning parameter selectors for the smoothly clipped absolute deviation method,836
+high-dimensional semiparametric bigraphical models,70,bayesian analysis of matrix normal graphical models,658
+inverse probability weighting with error-prone covariates,71,efficient restricted estimators for conditional mean models with missing data,730
+inverse probability weighting with error-prone covariates,71,a functional generalized method of moments approach for longitudinal studies with missing responses and covariate measurement error,590
+more efficient estimators for case-cohort studies,73,marginal hazards model for case-cohort studies with multiple disease outcomes,660
+more efficient estimators for case-cohort studies,73,weighted estimating equations for semiparametric transformation models with censored data from a case-cohort design,1090
+more efficient estimators for case-cohort studies,73,semiparametric transformation models for the case-cohort study,968
+kernel smoothed profile likelihood estimation in the accelerated failure time frailty model for clustered survival data,76,on least-squares regression with censored data,964
+kernel smoothed profile likelihood estimation in the accelerated failure time frailty model for clustered survival data,76,induced smoothing for the semiparametric accelerated failure time model: asymptotics and extensions to clustered data,687
+kernel smoothed profile likelihood estimation in the accelerated failure time frailty model for clustered survival data,76,generalized method of moments estimation for linear regression with clustered failure time data,404
+adjusted regression estimation for time-to-event data with differential measurement error,77,additive hazard regression with auxiliary covariates,860
+adjusted regression estimation for time-to-event data with differential measurement error,77,censored linear regression for case-cohort studies,890
+survival analysis without survival data: connecting length-biased and case-control data,78,a maximum pseudo-profile likelihood estimator for the cox model under length-biased sampling,593
+species sampling models: consistency for the number of species,79,bayesian nonparametric estimation of the probability of discovering new species,816
+species sampling models: consistency for the number of species,79,estimating species richness by a poisson-compound gamma model,612
+convergence of luo and tsai's iterative algorithm for estimation in proportional likelihood ratio models,80,a proportional likelihood ratio model,594
+using shared genetic controls in studies of gene-environment interactions,83,serniparametric maximum likelihood estimation exploiting gene-environment independence in case-control studies,1013
+estimating time-varying effects for overdispersed recurrent events data with treatment switching,84,the aalen additive gamma frailty hazards model,701
+estimating time-varying effects for overdispersed recurrent events data with treatment switching,84,estimating treatment effects with treatment switching via semicompeting risks models: an application to a colorectal cancer study,591
+estimation of a sparse group of sparse vectors,85,on bayesian testimation and its application to wavelet thresholding,648
+efficiency loss and the linearity condition in dimension reduction,86,dimension reduction for non-elliptically distributed predictors: second-order methods,617
+efficiency loss and the linearity condition in dimension reduction,86,a paradox concerning nuisance parameters and projected estimating functions,1062
+efficiency loss and the linearity condition in dimension reduction,86,sufficient dimension reduction through discretization-expectation estimation,618
+weighting in survey analysis under informative sampling,87,a new approach to weighting and inference in sample surveys,461
+simple design-efficient calibration estimators for rejective and high-entropy sampling,88,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+simple design-efficient calibration estimators for rejective and high-entropy sampling,88,some design properties of a rejective sampling procedure,672
+simple design-efficient calibration estimators for rejective and high-entropy sampling,88,efficient restricted estimators for conditional mean models with missing data,730
+simple design-efficient calibration estimators for rejective and high-entropy sampling,88,"bounded, efficient and doubly robust estimation with inverse weighting",608
+estimation with missing data: beyond double robustness,89,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+estimation with missing data: beyond double robustness,89,improved double-robust estimation in missing data and causal inference models,570
+estimation with missing data: beyond double robustness,89,"bounded, efficient and doubly robust estimation with inverse weighting",608
+simple tiered classifiers,90,bidirectional discrimination with application to data visualization,527
+data augmentation for non-gaussian regression models using variance-mean mixtures,91,the horseshoe estimator for sparse signals,630
+data augmentation for non-gaussian regression models using variance-mean mixtures,91,bayesian lasso regression,668
+penalized multivariate whittle likelihood for power spectrum estimation,93,multivariate spectral analysis using cholesky decomposition,1075
+penalized multivariate whittle likelihood for power spectrum estimation,93,automatic estimation of multivariate spectra via smoothing splines,858
+the role of the range parameter for estimation and prediction in geostatistics,94,towards reconciling two asymptotic frameworks in spatial statistics,984
+log-mean linear models for binary data,95,marginal log-linear parameterization of conditional independence models,777
+the optimal power puzzle: scrutiny of the monotone likelihood ratio assumption in multiple testing,96,adaptive linear step-up procedures that control the false discovery rate,913
+the optimal power puzzle: scrutiny of the monotone likelihood ratio assumption in multiple testing,96,false discovery control with p-value weighting,914
+composite likelihood estimation for the brown-resnick process,97,a note on pseudolikelihood constructed from marginal densities,1081
+composite likelihood estimation for the brown-resnick process,97,on the likelihood function of gaussian max-stable processes,754
+efficient estimation of the censored linear regression model,99,on least-squares regression with censored data,964
+on the likelihood ratio test for envelope models in multivariate linear regression,100,partial envelopes for efficient estimation in multivariate linear regression,766
+locally optimal designs for errors-in-variables models,101,"optimal designs for the emax, log-linear and exponential models",634
+changepoint estimation: another look at multiple testing problems,104,simultaneous discovery of rare and common segment variants,506
+changepoint estimation: another look at multiple testing problems,104,false discovery rate for scanning statistics,710
+changepoint estimation: another look at multiple testing problems,104,detecting simultaneous changepoints in multiple sequences,606
+tree-based methods for individualized treatment regimes,108,interactive model building for q-learning,168
+tree-based methods for individualized treatment regimes,108,robust estimation of optimal dynamic treatment regimes for sequential treatment decisions,72
+diagnostic studies in sufficient dimension reduction,111,model checking in regression via dimension reduction,429
+a cautionary note on robust covariance plug-in methods,112,elliptical graphical modelling,708
+bayesian sensitivity analysis with the fisher-rao metric,114,bayesian influence analysis: a geometric approach,741
+efficient computation of smoothing splines via adaptive basis sampling,116,asymptotic properties of penalized spline estimators,684
+efficient computation of smoothing splines via adaptive basis sampling,116,spatially adaptive smoothing splines,961
+efficient computation of smoothing splines via adaptive basis sampling,116,smoothing splines with varying smoothing parameter,51
+benchmarked empirical bayes methods in multiplicative area-level models with risk evaluation,117,benchmarking small area estimators,512
+benchmarked empirical bayes methods in multiplicative area-level models with risk evaluation,117,on measuring the variability of small area estimators under a basic area level model,1043
+on the occurrence times of componentwise maxima and bias in likelihood inference for multivariate max-stable distributions,121,exploiting occurrence times in likelihood inference for componentwise maxima,1045
+on the occurrence times of componentwise maxima and bias in likelihood inference for multivariate max-stable distributions,121,efficient inference and simulation for elliptical pareto processes,297
+on the occurrence times of componentwise maxima and bias in likelihood inference for multivariate max-stable distributions,121,efficient inference for spatial extreme value processes associated to log-gaussian random functions,26
+hysteretic autoregressive time series models,125,testing a linear time series model against its threshold extension,776
+sieve maximum likelihood regression analysis of dependent current status data,127,estimation of the mean function with panel count data using monotone polynomial splines,846
+a note on convergence of an iterative algorithm for semiparametric odds ratio models,128,convergence of luo and tsai's iterative algorithm for estimation in proportional likelihood ratio models,80
+a note on convergence of an iterative algorithm for semiparametric odds ratio models,128,a proportional likelihood ratio model,594
+on the degrees of freedom of reduced-rank estimators in multivariate regression,129,reduced rank regression via adaptive nuclear norm penalization,50
+hierarchical recognition of sparse patterns in large-scale simultaneous inference,131,adaptive linear step-up procedures that control the false discovery rate,913
+hierarchical recognition of sparse patterns in large-scale simultaneous inference,131,classification with confidence,179
+hierarchical recognition of sparse patterns in large-scale simultaneous inference,131,hierarchical testing of variable importance,478
+on random-effects meta-analysis,132,on the relative efficiency of using summary statistics versus individual-level data in meta-analysis,620
+automatic structure recovery for additive models,139,efficient estimation for semivarying-coefficient models,1077
+automatic structure recovery for additive models,139,adaptive lasso for cox's proportional hazards model,845
+a validated information criterion to determine the structural dimension in dimension reduction models,141,efficiency loss and the linearity condition in dimension reduction,86
+a validated information criterion to determine the structural dimension in dimension reduction models,141,determining the dimension of the central subspace and central mean subspace,491
+envelopes and reduced-rank regression,143,reduced rank regression via adaptive nuclear norm penalization,50
+envelopes and reduced-rank regression,143,partial envelopes for efficient estimation in multivariate linear regression,766
+effective degrees of freedom: a flawed metaphor,144,when does more regularization imply fewer degrees of freedom? sufficient conditions and counterexamples,180
+semiparametric exponential families for heavy-tailed data,145,proportional likelihood ratio models for mean regression,595
+semiparametric exponential families for heavy-tailed data,145,a note on profile likelihood for exponential tilt mixture models,437
+covariance-enhanced discriminant analysis,147,a direct approach to sparse discriminant analysis in ultra-high dimensions,581
+covariance-enhanced discriminant analysis,147,tuning parameter selectors for the smoothly clipped absolute deviation method,836
+covariance-enhanced discriminant analysis,147,model selection and estimation in the gaussian graphical model,874
+warped functional regression,148,nonparametric maximum likelihood estimation of the structural mean of a sample of curves,976
+warped functional regression,148,pairwise curve synchronization for functional data,448
+selection and estimation for mixed graphical models,150,elliptical graphical modelling,708
+selection and estimation for mixed graphical models,150,graph estimation with joint additive models,31
+selection and estimation for mixed graphical models,150,conditionally specified continuous distributions,474
+selection and estimation for mixed graphical models,150,model selection and estimation in the gaussian graphical model,874
+conditional quantile screening in ultrahigh-dimensional heterogeneous data,151,a consistent multivariate test of association based on ranks of distances,92
+moment-type estimators for the proportional likelihood ratio model with longitudinal data,153,nuisance parameter elimination for proportional likelihood ratio models with nonignorable missingness and random truncation,521
+moment-type estimators for the proportional likelihood ratio model with longitudinal data,153,proportional likelihood ratio models for mean regression,595
+moment-type estimators for the proportional likelihood ratio model with longitudinal data,153,a proportional likelihood ratio model,594
+an extended hazard model with longitudinal covariates,154,shared parameter models under random effects misspecification,500
+an extended hazard model with longitudinal covariates,154,joint modelling of accelerated failure time and longitudinal data,997
+using covariate-specific disease prevalence information to increase the power of case-control studies,156,serniparametric maximum likelihood estimation exploiting gene-environment independence in case-control studies,1013
+adaptive randomized trial designs that cannot be dominated by any standard design at the same total sample size,158,adaptive and nonadaptive group sequential tests,953
+adaptive randomized trial designs that cannot be dominated by any standard design at the same total sample size,158,optimizing randomized trial designs to distinguish which subpopulations benefit from treatment,702
+multivariate max-stable spatial processes,160,cross-covariance functions for multivariate random fields based on latent dimensions,636
+multivariate max-stable spatial processes,160,on the likelihood function of gaussian max-stable processes,754
+multivariate max-stable spatial processes,160,composite likelihood estimation for the brown-resnick process,97
+multivariate max-stable spatial processes,160,spatially varying cross-correlation coefficients in the presence of nugget effects,513
+multivariate max-stable spatial processes,160,efficient inference for spatial extreme value processes associated to log-gaussian random functions,26
+multivariate max-stable spatial processes,160,dependence modelling for spatial extremes,559
+generalized ewens-pitman model for bayesian clustering,161,species sampling models: consistency for the number of species,79
+generalized ewens-pitman model for bayesian clustering,161,classification based on a permanental process with cyclic approximation,523
+a wilcoxon-mann-whitney-type test for infinite-dimensional data,162,pointwise testing with functional data using the westfall-young randomization method,466
+a wilcoxon-mann-whitney-type test for infinite-dimensional data,162,robust functional estimation using the median and spherical principal components,464
+a wilcoxon-mann-whitney-type test for infinite-dimensional data,162,dispersion operators and resistant second-order functional data analysis,526
+dimension reduction based on the hellinger integral,164,direction estimation in single-index regressions,1018
+censored rank independence screening for high-dimensional survival data,167,adaptive lasso for cox's proportional hazards model,845
+robust estimators for nondecomposable elliptical graphical models,170,elliptical graphical modelling,708
+robust estimators for nondecomposable elliptical graphical models,170,model selection and estimation in the gaussian graphical model,874
+nonparametric bayes dynamic modelling of relational data,171,sparse bayesian infinite factor models,740
+a distribution-free two-sample run test applicable to high-dimensional data,173,"the high-dimension, low-sample-size geometric representation holds under mild conditions",851
+testing independence and goodness-of-fit in linear models,174,model checking in regression via dimension reduction,429
+miscellanea nearly orthogonal arrays mappable into fully orthogonal arrays,176,strong orthogonal arrays and associated latin hypercubes for computer experiments,519
+miscellanea nearly orthogonal arrays mappable into fully orthogonal arrays,176,sliced space-filling designs,673
+semiparametric maximum likelihood inference by using failed contact attempts to adjust for nonignorable nonresponse,178,propensity score adjustment with several follow-ups,18
+transformed sufficient dimension reduction,181,sufficient dimension reduction through discretization-expectation estimation,618
+tests for kronecker envelope models in multilinear principal components analysis,182,on multilinear principal component analysis of order-two tensors,543
+tests for kronecker envelope models in multilinear principal components analysis,182,on the likelihood ratio test for envelope models in multivariate linear regression,100
+on exact forms of taylor's theorem for vector-valued functions,185,tests for comparing estimated survival functions,190
+on exact forms of taylor's theorem for vector-valued functions,185,modelling the effects of partially observed covariates on poisson process intensity,883
+semiparametric group testing regression models,186,identitiability of single-index models and additive-index models,870
+estimation of mean response via the effective balancing score,187,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+estimation of mean response via the effective balancing score,187,dimension reduction for non-elliptically distributed predictors: second-order methods,617
+estimation of mean response via the effective balancing score,187,the prognostic analogue of the propensity score,492
+nonparametric inference on bivariate survival data with interval sampling: association estimation and testing,189,analysing bivariate survival data with interval sampling and application to cancer epidemiology,564
+tests for comparing estimated survival functions,190,semiparametric analysis of short-term and long-term hazard ratios with two-sample survival data,1030
+characterization of the likelihood continual reassessment method,193,coherence principles in dose-finding studies,980
+latent factor models for density estimation,194,kernel stick-breaking processes,481
+latent factor models for density estimation,194,a class of mixtures of dependent tail-free processes,722
+estimation from cross-sectional samples under bias and dependence,199,inference for clustered data using the independence loglikelihood,884
+on estimating regression-based causal effects using sufficient dimension reduction,201,dealing with limited overlap in estimation of average treatment effects,433
+on estimating regression-based causal effects using sufficient dimension reduction,201,estimation of mean response via the effective balancing score,187
+on estimating regression-based causal effects using sufficient dimension reduction,201,"bounded, efficient and doubly robust estimation with inverse weighting",608
+selective factor extraction in high dimensions,203,extended bayesian information criteria for model selection with large model spaces,476
+testing for high-dimensional white noise using maximum cross-correlations,204,generalised likelihood ratio tests for spectral density,1117
+testing for high-dimensional white noise using maximum cross-correlations,204,high-dimensional and banded vector autoregressions,225
+density estimation in the two-sample problem with likelihood ratio ordering,205,nonparametric tests for and against likelihood ratio ordering in the two-sample problem,1041
+density estimation in the two-sample problem with likelihood ratio ordering,205,semiparametric exponential families for heavy-tailed data,145
+design-based asymptotics for two-phase sampling strategies in environmental surveys,207,applying the horvitz-thompson criterion in complex designs: a computer-intensive perspective for estimating inclusion probabilities,933
+itemwise conditionally independent nonresponse modelling for incomplete multivariate data,208,"clarifying missing at random and related definitions, and implications when coupled with exchangeability",107
+a note on multiple imputation under complex sampling,209,a note on multiple imputation for method of moments estimation,287
+on falsification of the binary instrumental variable model,210,likelihood analysis of the binary instrumental variable model,711
+"testing for high-dimensional white noise using maximum cross-correlations (vol 104, pg 111, 2017)",213,testing for high-dimensional white noise using maximum cross-correlations,204
+"on falsification of the binary instrumental variable model (vol 104, pg 229, 2017)",214,on falsification of the binary instrumental variable model,210
+"replicates in high dimensions, with applications to latent variable graphical models",215,selection and estimation for mixed graphical models,150
+"replicates in high dimensions, with applications to latent variable graphical models",215,graph estimation with joint additive models,31
+"replicates in high dimensions, with applications to latent variable graphical models",215,model selection and estimation in the gaussian graphical model,874
+fast sampling with gaussian scale mixture priors in high-dimensional regression,216,sparse bayesian infinite factor models,740
+fast sampling with gaussian scale mixture priors in high-dimensional regression,216,the horseshoe estimator for sparse signals,630
+misclassified group-tested current status data,219,optimality of group testing in the presence of misclassification,598
+misclassified group-tested current status data,219,"nonparametric inference for competing risks current status data with continuous, discrete or grouped observation times",742
+in-sample forecasting with local linear survival densities,222,forecasting with the age-period-cohort model and the extended chain-ladder model,456
+high-dimensional and banded vector autoregressions,225,forward adaptive banding for estimating large covariance matrices,715
+multivariate spatial covariance models: a conditional approach,227,cross-covariance functions for multivariate random fields based on latent dimensions,636
+multivariate spatial covariance models: a conditional approach,227,aggregation-cokriging for highly multivariate spatial data,727
+multivariate spatial covariance models: a conditional approach,227,a general modelling framework for multivariate disease mapping,63
+default bayesian analysis with global-local shrinkage priors,229,the horseshoe estimator for sparse signals,630
+bayesian inference on quasi-sparse count data,230,the horseshoe estimator for sparse signals,630
+a conditional lindley paradox in bayesian linear,231,the horseshoe estimator for sparse signals,630
+variable selection for case-cohort studies with failure time outcome,232,vairiable selection for multivariate failure time data,1015
+variable selection for case-cohort studies with failure time outcome,232,marginal hazards model for case-cohort studies with multiple disease outcomes,660
+variable selection for case-cohort studies with failure time outcome,232,more efficient estimators for case-cohort studies,73
+variable selection for case-cohort studies with failure time outcome,232,tuning parameter selectors for the smoothly clipped absolute deviation method,836
+joint estimation of multiple dependent gaussian graphical models with applications to mouse genomics,234,extended bayesian information criteria for model selection with large model spaces,476
+joint estimation of multiple dependent gaussian graphical models with applications to mouse genomics,234,joint estimation of multiple graphical models,757
+joint estimation of multiple dependent gaussian graphical models with applications to mouse genomics,234,model selection and estimation in the gaussian graphical model,874
+on an additive partial correlation operator and nonparametric estimation of graphical models,235,graph estimation with joint additive models,31
+on an additive partial correlation operator and nonparametric estimation of graphical models,235,model selection and estimation in the gaussian graphical model,874
+sparse envelope model: efficient estimation and response variable selection in multivariate linear regression,238,scaled envelopes: scale-invariant and efficient estimation in multivariate linear regression,58
+sparse envelope model: efficient estimation and response variable selection in multivariate linear regression,238,envelopes and reduced-rank regression,143
+sparse envelope model: efficient estimation and response variable selection in multivariate linear regression,238,partial envelopes for efficient estimation in multivariate linear regression,766
+sparse envelope model: efficient estimation and response variable selection in multivariate linear regression,238,sparse precision matrix estimation via lasso penalized d-trace loss,32
+indirect multivariate response linear regression,239,reduced rank regression via adaptive nuclear norm penalization,50
+indirect multivariate response linear regression,239,scaled envelopes: scale-invariant and efficient estimation in multivariate linear regression,58
+indirect multivariate response linear regression,239,covariance matrix selection and estimation via penalised normal likelihood,959
+indirect multivariate response linear regression,239,inner envelopes: efficient estimation in multivariate linear regression,551
+indirect multivariate response linear regression,239,partial envelopes for efficient estimation in multivariate linear regression,766
+indirect multivariate response linear regression,239,model selection and estimation in the gaussian graphical model,874
+an adaptive two-sample test for high-dimensional means,240,a new approach to cholesky-based covariance regularization in high dimensions,600
+accurate directional inference for vector parameters,241,estimation of a covariance matrix with zeros,886
+accurate directional inference for vector parameters,241,studentization and deriving accurate p-values,496
+accurate directional inference for vector parameters,241,mean loglikelihood and higher-order approximations,646
+distribution of likelihood-based p-values under a local alternative hypothesis,242,simple and accurate one-sided inference based on a class of m-estimators,904
+a bayesian view of doubly robust causal inference,244,the prognostic analogue of the propensity score,492
+a bayesian view of doubly robust causal inference,244,a paradox concerning nuisance parameters and projected estimating functions,1062
+intrinsic efficiency and multiple robustness in longitudinal studies with drop-out,245,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+intrinsic efficiency and multiple robustness in longitudinal studies with drop-out,245,estimation with missing data: beyond double robustness,89
+intrinsic efficiency and multiple robustness in longitudinal studies with drop-out,245,improved double-robust estimation in missing data and causal inference models,570
+intrinsic efficiency and multiple robustness in longitudinal studies with drop-out,245,"bounded, efficient and doubly robust estimation with inverse weighting",608
+intrinsic efficiency and multiple robustness in longitudinal studies with drop-out,245,an efficient method of estimation for longitudinal surveys with monotone missing data,547
+particle metropolis-adjusted langevin algorithms,246,efficient implementation of markov chain monte carlo when using an unbiased likelihood estimator,133
+particle metropolis-adjusted langevin algorithms,246,particle approximations of the score and observed information matrix in state space models with application to parameter estimation,761
+bootstrap-based testing of equality of mean functions or equality of covariance operators for functional data,249,dispersion operators and resistant second-order functional data analysis,526
+bootstrap-based testing of equality of mean functions or equality of covariance operators for functional data,249,distances and inference for covariance operators,16
+on varieties of doubly robust estimators under missingness not at random with a shadow variable,250,estimation of regression models for the mean of repeated outcomes under nonignorable nonmonotone nonresponse,819
+sharp sensitivity bounds for mediation under unmeasured mediator-outcome confounding,251,generalized cornfield conditions for the risk difference,177
+data augmentation for models based on rejection sampling,252,saddlepoint approximations for the normalizing constant of fisher-bingham distributions on products of spheres and stiefel manifolds,59
+data augmentation for models based on rejection sampling,252,an efficient markov chain monte carlo method for distributions with intractable normalising constants,947
+maximum likelihood estimation for semiparametric transformation models with interval-censored data,254,efficient estimation of semiparametric transformation models for counting processes,922
+regression analysis of networked data,255,model diagnostic tests for selecting informative correlation structure in correlated data,449
+regression analysis of networked data,255,graph estimation with joint additive models,31
+regression analysis of networked data,255,model selection and estimation in the gaussian graphical model,874
+exact simulation of max-stable processes,256,conditional simulation of max-stable processes,503
+exact simulation of max-stable processes,256,efficient inference and simulation for elliptical pareto processes,297
+exponential tilting in bayesian asymptotics,257,bayesian exponentially tilted empirical likelihood,1032
+skew-normal antedependence models for skewed longitudinal data,259,efficient bayesian inference for gaussian copula regression models,916
+a pairwise interaction model for multivariate functional and longitudinal data,260,unified inference for sparse and dense longitudinal models,508
+a pairwise interaction model for multivariate functional and longitudinal data,260,estimation of latent factors for high-dimensional time series,706
+a pairwise interaction model for multivariate functional and longitudinal data,260,modelling multiple time series via common factors,485
+a pairwise interaction model for multivariate functional and longitudinal data,260,modelling covariance structure in bivariate marginal models for longitudinal data,548
+a pairwise interaction model for multivariate functional and longitudinal data,260,joint modelling of paired sparse functional data using principal components,465
+on exchangeable multinomial distributions,261,on the use of stochastic ordering to test for trend with clustered binary data,641
+a pairwise likelihood-based approach for changepoint detection in multivariate time series models,262,a note on composite likelihood inference and model selection,992
+a pairwise likelihood-based approach for changepoint detection in multivariate time series models,262,detecting simultaneous changepoints in multiple sequences,606
+nonparametric identification and maximum likelihood estimation for hidden markov models,263,quantifying the failure of bootstrap likelihood ratio tests,707
+calibrated propensity score method for survey nonresponse in cluster sampling,266,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+calibrated propensity score method for survey nonresponse in cluster sampling,266,using calibration weighting to adjust for nonresponse under a plausible model,462
+calibrated propensity score method for survey nonresponse in cluster sampling,266,parametric fractional imputation for missing data analysis,765
+calibrated propensity score method for survey nonresponse in cluster sampling,266,a unified approach to linearization variance estimation from survey data after imputation for item nonresponse,671
+calibrated propensity score method for survey nonresponse in cluster sampling,266,inverse probability weighting for clustered nonresponse,709
+"clarifying missing at random and related definitions, and implications when coupled with exchangeability (vol 102, pg 995, 2015)",267,"clarifying missing at random and related definitions, and implications when coupled with exchangeability",107
+high-dimensional classification via nonparametric empirical bayes and maximum likelihood inference,272,variance estimation in high-dimensional linear models,7
+high-dimensional classification via nonparametric empirical bayes and maximum likelihood inference,272,a direct approach to sparse discriminant analysis in ultra-high dimensions,581
+nonparametric bayes inference on conditional independence,273,model selection for gaussian concentration graphs,1072
+nonparametric bayes inference on conditional independence,273,kernel stick-breaking processes,481
+nonparametric bayes inference on conditional independence,273,a consistent multivariate test of association based on ranks of distances,92
+stochastic mechanistic interaction,276,sufficient cause interactions for categorical and ordinal exposures with three levels,607
+stochastic mechanistic interaction,276,empirical and counterfactual conditions for sufficient cause interactions,499
+"fr,chet integration and adaptive metric selection for interpretable covariances of multivariate functional data",277,distances and inference for covariance operators,16
+"fr,chet integration and adaptive metric selection for interpretable covariances of multivariate functional data",277,joint modelling of paired sparse functional data using principal components,465
+a unified framework for spline estimators,278,asymptotic properties of penalized spline estimators,684
+a unified framework for spline estimators,278,on the asymptotics of penalized splines,488
+goodness-of-fit test in parametric mixed effects models based on estimation of the error distribution,279,a simple test for random effects in regression models,61
+goodness-of-fit test in parametric mixed effects models based on estimation of the error distribution,279,on p-values for smooth components of an extended generalized additive model,514
+partially functional linear regression in high dimensions,280,functional quadratic regression,638
+partially functional linear regression in high dimensions,280,tuning parameter selectors for the smoothly clipped absolute deviation method,836
+semiparametric approach to regression with a covariate subject to a detection limit,281,semiparametric box-cox power transformation models for censored survival observations,999
+semiparametric approach to regression with a covariate subject to a detection limit,281,self-consistent nonparametric maximum likelihood estimator of the bivariate survivor function,188
+towards a unification of second-order theory for likelihood and marginal composite likelihood,285,inference for clustered data using the independence loglikelihood,884
+towards a unification of second-order theory for likelihood and marginal composite likelihood,285,a note on pseudolikelihood constructed from marginal densities,1081
+towards a unification of second-order theory for likelihood and marginal composite likelihood,285,a note on composite likelihood inference and model selection,992
+a note on multiple imputation for method of moments estimation,287,parametric fractional imputation for missing data analysis,765
+a note on multiple imputation for method of moments estimation,287,a unified approach to linearization variance estimation from survey data after imputation for item nonresponse,671
+optimal multiple testing under a gaussian prior on the effect sizes,290,false discovery control with p-value weighting,914
+strong control of the familywise error rate in observational studies that discover effect modification by exploratory methods,291,design sensitivity in observational studies,1114
+consistent testing for recurrent genomic aberrations,292,simultaneous discovery of rare and common segment variants,506
+consistent testing for recurrent genomic aberrations,292,detecting simultaneous changepoints in multiple sequences,606
+direct estimation of the mean outcome on treatment when treatment assignment and discontinuation compete,293,"semiparametric inference in observational duration-response studies, with duration possibly right-censored",998
+shared kernel bayesian screening,295,bayesian nonparametric inference on stochastic ordering,447
+efficient inference and simulation for elliptical pareto processes,297,efficient inference for spatial extreme value processes associated to log-gaussian random functions,26
+"nonparametric methods for group testing data, taking dilution into account",298,new approaches to nonparametric and semiparametric regression for univariate and multivariate group testing data,192
+general weighted optimality of designed experiments,300,optimal fractions of two-level factorials under a baseline parameterization,584
+general weighted optimality of designed experiments,300,"blocking, efficiency and weighted optimality",716
+joint testing and false discovery rate control in high-dimensional multivariate regression,301,testing differential networks with applications to the detection of gene-gene interactions,130
+on the asymptotic efficiency of approximate bayesian computation estimators,303,adaptive approximate bayesian computation,662
+on the asymptotic efficiency of approximate bayesian computation estimators,303,convergence of regression-adjusted approximate bayesian computation,304
+convergence of regression-adjusted approximate bayesian computation,304,adaptive approximate bayesian computation,662
+convergence of regression-adjusted approximate bayesian computation,304,on the asymptotic efficiency of approximate bayesian computation estimators,303
+bayesian precision and covariance matrix estimation for graphical gaussian models with edge and vertex symmetries,308,monte carlo method for computing the marginal likelihood in nondecomposable gaussian graphical models,1012
+on the number of principal components in high dimensions,309,"the high-dimension, low-sample-size geometric representation holds under mild conditions",851
+on the number of principal components in high dimensions,309,analysis of principal nested spheres,542
+on the number of principal components in high dimensions,309,"convergence of sample eigenvalues, eigenvectors, and principal component scores for ultra-high dimensional data",22
+design-based maps for continuous spatial populations,311,design-based asymptotics for two-phase sampling strategies in environmental surveys,207
+a non-model-based approach to bandwidth selection for kernel estimators of spatial intensity functions,313,on the voronoi estimator for the intensity of an inhomogeneous planar poisson process,795
+on the connection between maximin distance designs and orthogonal designs,315,orthogonal and nearly orthogonal designs for computer experiments,423
+on the connection between maximin distance designs and orthogonal designs,315,construction of orthogonal and nearly orthogonal designs for computer experiments,5
+on the connection between maximin distance designs and orthogonal designs,315,construction of orthogonal latin hypercube designs,675
+on the connection between maximin distance designs and orthogonal designs,315,permuting regular fractional factorial designs for screening quantitative factors,11
+on the connection between maximin distance designs and orthogonal designs,315,space-filling properties of good lattice point sets,102
+optimal pseudolikelihood estimation in the analysis of multivariate missing data with nonignorable nonresponse,316,on varieties of doubly robust estimators under missingness not at random with a shadow variable,250
+optimal pseudolikelihood estimation in the analysis of multivariate missing data with nonignorable nonresponse,316,semiparametric inverse propensity weighting for nonignorable missing data,282
+asymptotic inference of causal effects with observational studies trimmed by the estimated propensity scores,317,dealing with limited overlap in estimation of average treatment effects,433
+uniformly minimum variance conditionally unbiased estimation in multi-arm multi-stage clinical trials,318,a generalized dunnett test for multi-arm multi-stage clinical studies with treatment selection,573
+"asymptotic properties of penalized spline estimators (vol 96, pg 529, 2009)",319,asymptotic properties of penalized spline estimators,684
+on edge correction of conditional and intrinsic autoregressions,320,first-order intrinsic autoregressions and the de wijs process,983
+kernel-based covariate functional balancing for observational studies,321,estimation with missing data: beyond double robustness,89
+kernel-based covariate functional balancing for observational studies,321,"bounded, efficient and doubly robust estimation with inverse weighting",608
+dual regression,323,noncrossing quantile regression curve estimation,787
+a structural markov property for decomposable graph laws that allows control of clique intersections,324,sampling decomposable graphs using a markov chain on junction trees,511
+robust and consistent variable selection in high-dimensional generalized linear models,325,uniform post-selection inference for least absolute deviation regression and other z-estimation problems,163
+robust and consistent variable selection in high-dimensional generalized linear models,325,extended bayesian information criteria for model selection with large model spaces,476
+testing for the presence of significant covariates through conditional marginal regression,327,uniform post-selection inference for least absolute deviation regression and other z-estimation problems,163
+a robust goodness-of-fit test for generalized autoregressive conditional heteroscedastic models,328,diagnostic checking for time series models with conditional heteroscedasticity estimated by the least absolute deviation approach,1004
+a robust goodness-of-fit test for generalized autoregressive conditional heteroscedastic models,328,least absolute deviation estimation for fractionally integrated autoregressive moving average time series models with conditional heteroscedasticity,487
+approximate bayesian inference under informative sampling,329,combining data from two independent surveys: a model-assisted approach,585
+shape-constrained partial identification of a population mean under unknown probabilities of sample selection,330,interval estimation of population means under unknown but bounded probabilities of sample selection,516
+shape-constrained partial identification of a population mean under unknown probabilities of sample selection,330,semiparametric exponential families for heavy-tailed data,145
+two-sample tests of high-dimensional means for compositional data,331,variable selection in regression with compositional covariates,165
+simple least squares estimator for treatment effects using propensity score residuals,332,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+scalar-on-image regression via the soft-thresholded gaussian process,333,an efficient markov chain monte carlo method for distributions with intractable normalising constants,947
+a conditional composite likelihood ratio test with boundary constraints,337,inference for clustered data using the independence loglikelihood,884
+a conditional composite likelihood ratio test with boundary constraints,337,on pseudolikelihood inference for semiparametric models with boundary problems,396
+a conditional composite likelihood ratio test with boundary constraints,337,on the asymptotic behaviour of the pseudolikelihood ratio test statistic with boundary problems,604
+a conditional composite likelihood ratio test with boundary constraints,337,likelihood ratio tests with boundary constraints using data-dependent degrees of freedom,53
+on bias reduction and incidental parameters,338,bias reduction in exponential family nonlinear models,666
+"on the degrees of freedom of reduced-rank estimators in multivariate regression (vol 102, pg 457, 2015)",340,on the degrees of freedom of reduced-rank estimators in multivariate regression,129
+semiparametric analysis of complex polygenic gene-environment interactions in case-control studies,341,serniparametric maximum likelihood estimation exploiting gene-environment independence in case-control studies,1013
+partition-based ultrahigh-dimensional variable screening,342,adaptive lasso for cox's proportional hazards model,845
+distribution-free tests of independence in high dimensions,343,testing for complete independence in high dimensions,986
+distribution-free tests of independence in high dimensions,343,multivariate sign-based high-dimensional tests for sphericity,39
+projection correlation between two random vectors,344,a consistent multivariate test of association based on ranks of distances,92
+on two-stage estimation of structural instrumental variable models,346,on least-squares regression with censored data,964
+bayesian local extremum splines,348,nonparametric bayesian testing for monotonicity,115
+optimal designs for active controlled dose-finding trials with efficacy-toxicity outcomes,349,designing dose-finding studies with an active control for exponential families,289
+differential network analysis via lasso penalized d-trace loss,350,joint estimation of multiple graphical models,757
+differential network analysis via lasso penalized d-trace loss,350,model selection and estimation in the gaussian graphical model,874
+differential network analysis via lasso penalized d-trace loss,350,sparse precision matrix estimation via lasso penalized d-trace loss,32
+differential network analysis via lasso penalized d-trace loss,350,direct estimation of differential networks,6
+a cp criterion for semiparametric causal inference,352,estimation with missing data: beyond double robustness,89
+a cp criterion for semiparametric causal inference,352,a paradox concerning nuisance parameters and projected estimating functions,1062
+median bias reduction of maximum likelihood estimates,353,bias reduction in exponential family nonlinear models,666
+robust rank estimation for transformation models with random effects,355,gamma frailty transformation models for multivariate survival times,403
+contours and dimple for the gneiting class of space-time correlation functions,357,the dimple in gneiting's spatial-temporal covariance model,755
+multiple robustness in factorized likelihood models,358,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+multiple robustness in factorized likelihood models,358,intrinsic efficiency and multiple robustness in longitudinal studies with drop-out,245
+multiple robustness in factorized likelihood models,358,estimation with missing data: beyond double robustness,89
+multiple robustness in factorized likelihood models,358,improved double-robust estimation in missing data and causal inference models,570
+multiple robustness in factorized likelihood models,358,efficient restricted estimators for conditional mean models with missing data,730
+multiple robustness in factorized likelihood models,358,"bounded, efficient and doubly robust estimation with inverse weighting",608
+multiple robustness in factorized likelihood models,358,estimation of regression models for the mean of repeated outcomes under nonignorable nonmonotone nonresponse,819
+joint sufficient dimension reduction and estimation of conditional and average treatment effects,359,covariate selection for the nonparametric estimation of an average treatment effect,703
+joint sufficient dimension reduction and estimation of conditional and average treatment effects,359,the prognostic analogue of the propensity score,492
+joint sufficient dimension reduction and estimation of conditional and average treatment effects,359,estimation of mean response via the effective balancing score,187
+identification and estimation of causal effects with outcomes truncated by death,360,generalized cornfield conditions for the risk difference,177
+robust reduced-rank regression,361,reduced rank regression via adaptive nuclear norm penalization,50
+expandable factor analysis,362,sparse bayesian infinite factor models,740
+expandable factor analysis,362,extended bayesian information criteria for model selection with large model spaces,476
+maximum likelihood estimation for semiparametric regression models with multivariate interval-censored data,363,maximum likelihood estimation for semiparametric transformation models with interval-censored data,254
+maximum empirical likelihood estimation for abundance in a closed population from capture-recapture data,364,inference on population size in binomial detectability models,667
+optimal bayes classifiers for functional data and density ratios,365,partially functional linear regression in high dimensions,280
+uncertainty quantification under group sparsity,366,scaled sparse linear regression,529
+pseudo-marginal metropolis-hastings sampling using averages of unbiased estimators,371,efficient implementation of markov chain monte carlo when using an unbiased likelihood estimator,133
+pseudo-marginal metropolis-hastings sampling using averages of unbiased estimators,371,variance bounding and geometric ergodicity of markov chain monte carlo kernels for approximate bayesian computation,195
+conditional moment models with data missing at random,372,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+conditional moment models with data missing at random,372,improved double-robust estimation in missing data and causal inference models,570
+conditional moment models with data missing at random,372,multiple imputation in quantile regression,569
+weighted envelope estimation to handle variability in model selection,373,sparse envelope model: efficient estimation and response variable selection in multivariate linear regression,238
+weighted envelope estimation to handle variability in model selection,373,partial envelopes for efficient estimation in multivariate linear regression,766
+"improving the accuracy of likelihood-based inference in meta-analysis and meta-regression (vol 104, pg 489, 2017)",374,improving the accuracy of likelihood-based inference in meta-analysis and meta-regression,392
+an improved and explicit surrogate variable analysis procedure by coefficient adjustment,375,"convergence of sample eigenvalues, eigenvectors, and principal component scores for ultra-high dimensional data",22
+data integration with high dimensionality,378,extended bayesian information criteria for model selection with large model spaces,476
+data integration with high dimensionality,378,a note on pseudolikelihood constructed from marginal densities,1081
+data integration with high dimensionality,378,a note on composite likelihood inference and model selection,992
+ignorability for general longitudinal data,380,"clarifying missing at random and related definitions, and implications when coupled with exchangeability",107
+bayesian nonparametric analysis of longitudinal studies in the presence of informative missingness,381,partial and latent ignorability in missing-data problems,422
+bayesian nonparametric analysis of longitudinal studies in the presence of informative missingness,381,adaptive bayesian multivariate density estimation with dirichlet mixtures,68
+bayesian nonparametric analysis of longitudinal studies in the presence of informative missingness,381,estimation of regression models for the mean of repeated outcomes under nonignorable nonmonotone nonresponse,819
+projection-based outlier detection in functional data,385,outlier detection for high-dimensional data,113
+multiply robust imputation procedures for the treatment of item nonresponse in surveys,387,a jackknife variance estimator for unistage stratified samples with unequal probabilities,826
+multiply robust imputation procedures for the treatment of item nonresponse in surveys,387,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+multiply robust imputation procedures for the treatment of item nonresponse in surveys,387,estimation with missing data: beyond double robustness,89
+multiply robust imputation procedures for the treatment of item nonresponse in surveys,387,a unified approach to linearization variance estimation from survey data after imputation for item nonresponse,671
+multiply robust imputation procedures for the treatment of item nonresponse in surveys,387,fractional hot deck imputation,1070
+construction of maximin distance latin squares and related latin hypercube designs,388,space-filling properties of good lattice point sets,102
+a general rotation method for orthogonal latin hypercubes,389,construction of orthogonal and nearly orthogonal latin hypercubes,439
+a general rotation method for orthogonal latin hypercubes,389,a construction method for orthogonal latin hypercube designs,934
+a general rotation method for orthogonal latin hypercubes,389,construction of orthogonal latin hypercube designs,675
+nonlinear shrinkage estimation of large integrated covariance matrices,391,cholesky decompositions and estimation of a covariance matrix: orthogonality of variance-correlation parameters,832
+improving the accuracy of likelihood-based inference in meta-analysis and meta-regression,392,bias reduction in exponential family nonlinear models,666
+improving the accuracy of likelihood-based inference in meta-analysis and meta-regression,392,on random-effects meta-analysis,132
+principal weighted support vector machines for sufficient dimension reduction in binary classification,394,using intraslice covariances for improved estimation of the central subspace in regression,957
+principal weighted support vector machines for sufficient dimension reduction in binary classification,394,partial inverse regression,840
+principal weighted support vector machines for sufficient dimension reduction in binary classification,394,the kolmogorov filter for variable screening in high-dimensional binary classification,515
+principal weighted support vector machines for sufficient dimension reduction in binary classification,394,probability estimation for large-margin classifiers,805
+on pseudolikelihood inference for semiparametric models with boundary problems,396,on the asymptotic behaviour of the pseudolikelihood ratio test statistic with boundary problems,604
+case-cohort studies with interval-censored failure time data,399,marginal hazards model for case-cohort studies with multiple disease outcomes,660
+case-cohort studies with interval-censored failure time data,399,more efficient estimators for case-cohort studies,73
+case-cohort studies with interval-censored failure time data,399,maximum likelihood estimation for semiparametric transformation models with interval-censored data,254
+nonparametric bayes local partition models for random effects,401,retrospective markov chain monte carlo methods for dirichlet process hierarchical models,806
+gamma frailty transformation models for multivariate survival times,403,pairwise dependence diagnostics for clustered failure-time data,861
+gamma frailty transformation models for multivariate survival times,403,efficient estimation of semiparametric transformation models for counting processes,922
+hierarchically penalized cox regression with grouped variables,405,adaptive lasso for cox's proportional hazards model,845
+hierarchically penalized cox regression with grouped variables,405,a note on path-based variable selection in the penalized proportional hazards model,811
+a group bridge approach for variable selection,407,can the strengths of aic and bic be shared? a conflict between model indentification and regression estimation,985
+a group bridge approach for variable selection,407,adaptive lasso for cox's proportional hazards model,845
+covariate-adjusted generalized linear models,408,covariate-adjusted regression,1035
+nonparametric additive regression for repeatedly measured data,410,local polynomial regression analysis of clustered data,1034
+nonparametric additive regression for repeatedly measured data,410,understanding nonparametric estimation for clustered data,952
+nonparametric additive regression for repeatedly measured data,410,equivalent kernels of smoothing splines in nonparametric regression for clustered/longitudinal data,1116
+jackknife estimation of mean squared error of small area predictors in nonlinear mixed models,415,on measuring the variability of small area estimators under a basic area level model,1043
+saddlepoint approximation for mixture models,417,posterior probability intervals in bayesian wavelet estimation,1103
+orthogonal and nearly orthogonal designs for computer experiments,423,a construction method for orthogonal latin hypercube designs,934
+orthogonal and nearly orthogonal designs for computer experiments,423,orthogonal arrays robust to nonnegligible two-factor interactions,963
+model checking in regression via dimension reduction,429,direction estimation in single-index regressions,1018
+bayesian nonparametric functional data analysis through density estimation,430,hierarchical models for assessing variability among functions,1020
+bayesian nonparametric functional data analysis through density estimation,430,a crossvalidation method for estimating conditional densities,1055
+wilcoxon-type generalized bayesian information criterion,431,bayesian information criteria and smoothing parameter selection in radial basis function networks,1106
+wilcoxon-type generalized bayesian information criterion,431,model selection in irregular problems: applications to mapping quantitative trait loci,1053
+a note on cause-specific residual life,438,nonparametric quantile inference with competing - risks data,848
+construction of orthogonal and nearly orthogonal latin hypercubes,439,orthogonal and nearly orthogonal designs for computer experiments,423
+construction of orthogonal and nearly orthogonal latin hypercubes,439,a construction method for orthogonal latin hypercube designs,934
+a multi-dimensional scaling approach to shape analysis,442,saddlepoint approximations for the bingham and fisher-bingham normalising constants,1023
+covariance reducing models: an alternative to spectral modelling of covariance matrices,443,dimension reduction in regression without matrix inversion,837
+a goodness-of-fit test for inhomogeneous spatial poisson processes,445,modelling the effects of partially observed covariates on poisson process intensity,883
+bayesian nonparametric inference on stochastic ordering,447,generalized spatial dirichlet process models,817
+pairwise curve synchronization for functional data,448,nonparametric maximum likelihood estimation of the structural mean of a sample of curves,976
+model diagnostic tests for selecting informative correlation structure in correlated data,449,covariance matrix selection and estimation via penalised normal likelihood,959
+model diagnostic tests for selecting informative correlation structure in correlated data,449,modelling of covariance structures in generalised estimating equations for longitudinal data,901
+on the asymptotics of marginal regression splines with longitudinal data,450,local polynomial regression analysis of clustered data,1034
+on the asymptotics of marginal regression splines with longitudinal data,450,understanding nonparametric estimation for clustered data,952
+on the asymptotics of marginal regression splines with longitudinal data,450,equivalent kernels of smoothing splines in nonparametric regression for clustered/longitudinal data,1116
+small area estimation when auxiliary information is measured with error,451,on measuring the variability of small area estimators under a basic area level model,1043
+multiple imputation when records used for imputation are not used or disseminated for analysis,452,small-sample degrees of freedom for multi-component significance tests with multiple imputation for missing data,871
+semiparametric maximum likelihood estimation in normal transformation models for bivariate survival data,453,efficient bayesian inference for gaussian copula regression models,916
+estimating the false discovery rate using the stochastic approximation algorithm,454,adaptive linear step-up procedures that control the false discovery rate,913
+a note on nonparametric quantile inference for competing risks and more complex multistate models,459,nonparametric quantile inference with competing - risks data,848
+optimal sampling and estimation strategies under the linear model,460,efficient balanced sampling: the cube method,1060
+influence functions and robust bayes and empirical bayes small area estimation,463,on measuring the variability of small area estimators under a basic area level model,1043
+pointwise testing with functional data using the westfall-young randomization method,466,"maxima of discretely sampled random fields, with an application to 'bubbles'",873
+supremum weighted log-rank test and sample size for comparing two-stage adaptive treatment strategies,471,semiparametric efficient estimation of survival distributions in two-stage randomisation designs in clinical trials with censored data,965
+extended bayesian information criteria for model selection with large model spaces,476,model selection in irregular problems: applications to mapping quantitative trait loci,1053
+a note on conditional aic for linear mixed-effects models,477,conditional akaike information for mixed-effects models,1017
+a family of bayes multiple testing procedures,480,adaptive linear step-up procedures that control the false discovery rate,913
+kernel stick-breaking processes,481,variable selection in clustering via dirichlet process mixture models,898
+kernel stick-breaking processes,481,retrospective markov chain monte carlo methods for dirichlet process hierarchical models,806
+estimating functions for inhomogeneous spatial point processes with incomplete covariate data,484,modelling the effects of partially observed covariates on poisson process intensity,883
+least absolute deviation estimation for fractionally integrated autoregressive moving average time series models with conditional heteroscedasticity,487,diagnostic checking for time series models with conditional heteroscedasticity estimated by the least absolute deviation approach,1004
+on the asymptotics of penalized splines,488,theory for penalised spline regression,1037
+diagnostic measures for empirical likelihood of general estimating equations,493,data-informed influence analysis,1112
+diagnostic measures for empirical likelihood of general estimating equations,493,a diagnostic procedure based on local influence,1071
+a new class of average moment matching priors,495,on measuring the variability of small area estimators under a basic area level model,1043
+distortion of effects caused by indirect confounding,497,on the idenfification of path analysis models with one hidden variable,1016
+biometrika highlights from volume 28 onwards,502,the unobserved heterogeneity distribution in duration analysis,879
+biometrika highlights from volume 28 onwards,502,karl pearson's biometrika: 1901-36,501
+biometrika highlights from volume 28 onwards,502,bayesian predictive information criterion for the evaluation of hierarchical bayesian and empirical bayes models,866
+biometrika highlights from volume 28 onwards,502,adaptive approximate bayesian computation,662
+biometrika highlights from volume 28 onwards,502,square-root lasso: pivotal recovery of sparse signals via conic programming,714
+biometrika highlights from volume 28 onwards,502,adaptive linear step-up procedures that control the false discovery rate,913
+biometrika highlights from volume 28 onwards,502,sparse bayesian infinite factor models,740
+biometrika highlights from volume 28 onwards,502,sparse estimation of a covariance matrix,700
+biometrika highlights from volume 28 onwards,502,orthogonal and nearly orthogonal designs for computer experiments,423
+biometrika highlights from volume 28 onwards,502,model-assisted estimation for complex surveys using penalised splines,978
+biometrika highlights from volume 28 onwards,502,objective bayesian model selection in gaussian graphical models,682
+biometrika highlights from volume 28 onwards,502,the horseshoe estimator for sparse signals,630
+biometrika highlights from volume 28 onwards,502,serniparametric maximum likelihood estimation exploiting gene-environment independence in case-control studies,1013
+biometrika highlights from volume 28 onwards,502,extended bayesian information criteria for model selection with large model spaces,476
+biometrika highlights from volume 28 onwards,502,properties of nested sampling,613
+biometrika highlights from volume 28 onwards,502,asymptotic properties of penalized spline estimators,684
+biometrika highlights from volume 28 onwards,502,a note on pseudolikelihood constructed from marginal densities,1081
+biometrika highlights from volume 28 onwards,502,exact likelihood ratio tests for penalised splines,1036
+biometrika highlights from volume 28 onwards,502,dealing with limited overlap in estimation of average treatment effects,433
+biometrika highlights from volume 28 onwards,502,efficient balanced sampling: the cube method,1060
+biometrika highlights from volume 28 onwards,502,model selection for gaussian concentration graphs,1072
+biometrika highlights from volume 28 onwards,502,nonparametric bayes local partition models for random effects,401
+biometrika highlights from volume 28 onwards,502,kernel stick-breaking processes,481
+biometrika highlights from volume 28 onwards,502,false discovery rates and copy number variation,738
+biometrika highlights from volume 28 onwards,502,a sequential smoothing algorithm with linear computational cost,629
+biometrika highlights from volume 28 onwards,502,false discovery control with p-value weighting,914
+biometrika highlights from volume 28 onwards,502,"bayesian alignment using hierarchical models, with applications in protein bioinformatics",931
+biometrika highlights from volume 28 onwards,502,joint estimation of multiple graphical models,757
+biometrika highlights from volume 28 onwards,502,theory for penalised spline regression,1037
+biometrika highlights from volume 28 onwards,502,bayesian lasso regression,668
+biometrika highlights from volume 28 onwards,502,a group bridge approach for variable selection,407
+biometrika highlights from volume 28 onwards,502,covariance matrix selection and estimation via penalised normal likelihood,959
+conditional simulation of max-stable processes,503,on the likelihood function of gaussian max-stable processes,754
+a nonparametric prior for simultaneous covariance estimation,504,joint estimation of multiple graphical models,757
+a nonparametric prior for simultaneous covariance estimation,504,cholesky decompositions and estimation of a covariance matrix: orthogonality of variance-correlation parameters,832
+covariate-adjusted precision matrix estimation with an application in genetical genomics,505,model selection and estimation in the gaussian graphical model,874
+simultaneous discovery of rare and common segment variants,506,detecting simultaneous changepoints in multiple sequences,606
+smoothed nonparametric estimation for current status competing risks data,507,"nonparametric inference for competing risks current status data with continuous, discrete or grouped observation times",742
+optimal estimation of poisson intensity with partially observed covariates,509,a weighted estimating equation approach for inhomogeneous spatial point processes,790
+optimal estimation of poisson intensity with partially observed covariates,509,modelling the effects of partially observed covariates on poisson process intensity,883
+optimal estimation of poisson intensity with partially observed covariates,509,estimating functions for inhomogeneous spatial point processes with incomplete covariate data,484
+sampling decomposable graphs using a markov chain on junction trees,511,monte carlo method for computing the marginal likelihood in nondecomposable gaussian graphical models,1012
+sampling decomposable graphs using a markov chain on junction trees,511,objective bayesian model selection in gaussian graphical models,682
+spatially varying cross-correlation coefficients in the presence of nugget effects,513,cross-covariance functions for multivariate random fields based on latent dimensions,636
+spatially varying cross-correlation coefficients in the presence of nugget effects,513,aggregation-cokriging for highly multivariate spatial data,727
+spatially varying cross-correlation coefficients in the presence of nugget effects,513,studies in the history of probability and statistics xlix on the matern correlation family,905
+on p-values for smooth components of an extended generalized additive model,514,exact likelihood ratio tests for penalised splines,1036
+strong orthogonal arrays and associated latin hypercubes for computer experiments,519,construction of orthogonal and nearly orthogonal latin hypercubes,439
+non-restarting cumulative sum charts and control of the false discovery rate,520,adaptive linear step-up procedures that control the false discovery rate,913
+non-restarting cumulative sum charts and control of the false discovery rate,520,efficient scalable schemes for monitoring a large number of data streams,627
+nuisance parameter elimination for proportional likelihood ratio models with nonignorable missingness and random truncation,521,proportional likelihood ratio models for mean regression,595
+nuisance parameter elimination for proportional likelihood ratio models with nonignorable missingness and random truncation,521,a proportional likelihood ratio model,594
+testing one hypothesis twice in observational studies,522,design sensitivity in observational studies,1114
+classification based on a permanental process with cyclic approximation,523,approximating the alpha-permanent,691
+dispersion operators and resistant second-order functional data analysis,526,robust functional estimation using the median and spherical principal components,464
+bidirectional discrimination with application to data visualization,527,"the high-dimension, low-sample-size geometric representation holds under mild conditions",851
+a two-stage dimension-reduction method for transformed responses and its applications,528,sufficient dimension reduction through discretization-expectation estimation,618
+scaled sparse linear regression,529,square-root lasso: pivotal recovery of sparse signals via conic programming,714
+two-stage testing procedures with independent filtering for genome-wide gene-environment interaction,532,serniparametric maximum likelihood estimation exploiting gene-environment independence in case-control studies,1013
+penalized balanced sampling,533,model-assisted estimation for complex surveys using penalised splines,978
+penalized balanced sampling,533,efficient balanced sampling: the cube method,1060
+penalized balanced sampling,533,some design properties of a rejective sampling procedure,672
+finite population estimators in stochastic search variable selection,536,adaptive sampling for bayesian variable selection,972
+proportional mean residual life model for right-censored length-biased data,537,semiparametric regression analysis of mean residual life with censored survival data,1031
+proportional mean residual life model for right-censored length-biased data,537,nonparametric estimation for length-biased and right-censored data,769
+a geometric approach to projective shape and the cross ratio,538,a multi-dimensional scaling approach to shape analysis,442
+an efficient empirical likelihood approach for estimating equations with missing data,540,partially linear models with missing response variables and error-prone covariates,885
+analysis of principal nested spheres,542,"the high-dimension, low-sample-size geometric representation holds under mild conditions",851
+analysis of principal nested spheres,542,shape curves and geodesic modelling,602
+analysis of principal nested spheres,542,shape-space smoothing splines for planar landmark data,833
+predictive accuracy of covariates for event times,546,efficient estimation of semiparametric transformation models for counting processes,922
+an efficient method of estimation for longitudinal surveys with monotone missing data,547,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+an efficient method of estimation for longitudinal surveys with monotone missing data,547,a paradox concerning nuisance parameters and projected estimating functions,1062
+an efficient method of estimation for longitudinal surveys with monotone missing data,547,a unified approach to linearization variance estimation from survey data after imputation for item nonresponse,671
+modelling covariance structure in bivariate marginal models for longitudinal data,548,covariance matrix selection and estimation via penalised normal likelihood,959
+modelling covariance structure in bivariate marginal models for longitudinal data,548,modelling of covariance structures in generalised estimating equations for longitudinal data,901
+modelling covariance structure in bivariate marginal models for longitudinal data,548,model selection and estimation in the gaussian graphical model,874
+on the stick-breaking representation of normalized inverse gaussian priors,549,bayesian nonparametric estimation of the probability of discovering new species,816
+on the stick-breaking representation of normalized inverse gaussian priors,549,retrospective markov chain monte carlo methods for dirichlet process hierarchical models,806
+"objective bayes, conditional inference and the signed root likelihood ratio statistic",550,objective bayes and conditional inference in exponential families,632
+inner envelopes: efficient estimation in multivariate linear regression,551,partial envelopes for efficient estimation in multivariate linear regression,766
+penalized empirical likelihood and growing dimensional general estimating equations,552,effects of data dimension on empirical likelihood,696
+penalized empirical likelihood and growing dimensional general estimating equations,552,on bartlett correction of empirical likelihood in the presence of nuisance parameters,969
+penalized empirical likelihood and growing dimensional general estimating equations,552,penalized high-dimensional empirical likelihood,791
+penalized empirical likelihood and growing dimensional general estimating equations,552,adaptive lasso for cox's proportional hazards model,845
+on the robustness of the adaptive lasso to model misspecification,553,adaptive lasso for cox's proportional hazards model,845
+positive definite estimators of large covariance matrices,554,sparse estimation of a covariance matrix,700
+positive definite estimators of large covariance matrices,554,model selection and estimation in the gaussian graphical model,874
+the fitting of complex parametric models,555,adaptive approximate bayesian computation,662
+designs of variable resolution,556,robust designs through partially clear two-factor interactions,734
+designs of variable resolution,556,orthogonal arrays robust to nonnegligible two-factor interactions,963
+dependence modelling for spatial extremes,559,on the likelihood function of gaussian max-stable processes,754
+dependence modelling for spatial extremes,559,a note on composite likelihood inference and model selection,992
+componentwise classification and clustering of functional data,562,most-predictive design points for functional data predictors,786
+likelihood approaches for the invariant density ratio model with biased-sampling data,565,"marginal likelihood, conditional likelihood and empirical likelihood: connections and applications",1010
+corrected-loss estimation for quantile regression with covariate measurement errors,568,partially linear models with missing response variables and error-prone covariates,885
+improved double-robust estimation in missing data and causal inference models,570,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+improved double-robust estimation in missing data and causal inference models,570,"bounded, efficient and doubly robust estimation with inverse weighting",608
+empirical bootstrap bias correction and estimation of prediction mean square error in small area estimation,571,jackknife estimation of mean squared error of small area predictors in nonlinear mixed models,415
+information dynamics and optimal sampling in capture-recapture,572,inference on population size in binomial detectability models,667
+inference for additive interaction under exposure misclassification,574,empirical and counterfactual conditions for sufficient cause interactions,499
+"on measuring the variability of small area estimators under a basic area level model (vol 92, pg 183, 2005)",575,on measuring the variability of small area estimators under a basic area level model,1043
+global optimality of nonconvex penalized estimators,576,extended bayesian information criteria for model selection with large model spaces,476
+global optimality of nonconvex penalized estimators,576,can the strengths of aic and bic be shared? a conflict between model indentification and regression estimation,985
+structuring shrinkage: some correlated priors for regression,578,the horseshoe estimator for sparse signals,630
+structuring shrinkage: some correlated priors for regression,578,bayesian lasso regression,668
+factor profiled sure independence screening,580,extended bayesian information criteria for model selection with large model spaces,476
+factor profiled sure independence screening,580,partial inverse regression,840
+factor profiled sure independence screening,580,modelling multiple time series via common factors,485
+factor profiled sure independence screening,580,tuning parameter selectors for the smoothly clipped absolute deviation method,836
+factor profiled sure independence screening,580,adaptive lasso for cox's proportional hazards model,845
+combining data from two independent surveys: a model-assisted approach,585,fractional hot deck imputation,1070
+combining data from two independent surveys: a model-assisted approach,585,multiple imputation when records used for imputation are not used or disseminated for analysis,452
+combining data from two independent surveys: a model-assisted approach,585,small area estimation when auxiliary information is measured with error,451
+a moving average cholesky factor model in covariance modelling for longitudinal data,589,cholesky decompositions and estimation of a covariance matrix: orthogonality of variance-correlation parameters,832
+a moving average cholesky factor model in covariance modelling for longitudinal data,589,a new approach to cholesky-based covariance regularization in high dimensions,600
+a moving average cholesky factor model in covariance modelling for longitudinal data,589,modelling of covariance structures in generalised estimating equations for longitudinal data,901
+a functional generalized method of moments approach for longitudinal studies with missing responses and covariate measurement error,590,locally efficient semiparametric estimators for functional measurement error models,1056
+mean residual life models with time-dependent coefficients under right censoring,592,linear life expectancy regression with censored data,936
+mean residual life models with time-dependent coefficients under right censoring,592,semiparametric regression analysis of mean residual life with censored survival data,1031
+a maximum pseudo-profile likelihood estimator for the cox model under length-biased sampling,593,pseudo-partial likelihood for proportional hazards models with biased-sampling data,689
+a proportional likelihood ratio model,594,proportional likelihood ratio models for mean regression,595
+proportional likelihood ratio models for mean regression,595,a proportional likelihood ratio model,594
+non-gaussian spatiotemporal modelling through scale mixing,599,cross-covariance functions for multivariate random fields based on latent dimensions,636
+a new approach to cholesky-based covariance regularization in high dimensions,600,estimation of a covariance matrix with zeros,886
+a new approach to cholesky-based covariance regularization in high dimensions,600,covariance matrix selection and estimation via penalised normal likelihood,959
+a new approach to cholesky-based covariance regularization in high dimensions,600,cholesky decompositions and estimation of a covariance matrix: orthogonality of variance-correlation parameters,832
+a new approach to cholesky-based covariance regularization in high dimensions,600,model selection and estimation in the gaussian graphical model,874
+shape curves and geodesic modelling,602,shape-space smoothing splines for planar landmark data,833
+a class of grouped brunk estimators and penalized spline estimators for monotone regression,603,on the asymptotics of penalized splines,488
+accurate and robust tests for indirect inference,605,adaptive approximate bayesian computation,662
+sufficient cause interactions for categorical and ordinal exposures with three levels,607,empirical and counterfactual conditions for sufficient cause interactions,499
+analysis of cohort studies with multivariate and partially observed disease classification data,609,inference based on the em algorithm for the competing risks model with masked causes of failure,1069
+analysis of cohort studies with multivariate and partially observed disease classification data,609,semiparametric estimators for the regression coefficients in the linear transformation competing risks model with missing cause of failure,981
+a semiparametric additive rate model for recurrent events with an informative terminal event,610,efficient estimation of semiparametric transformation models for counting processes,922
+attributable fraction functions for censored event times,611,efficient estimation of semiparametric transformation models for counting processes,922
+properties of nested sampling,613,efficient bayes factor estimation from the reversible jump output,955
+empirical likelihood methods for two-dimensional shape analysis,614,a multi-dimensional scaling approach to shape analysis,442
+variable selection in high-dimensional linear models: partially faithful distributions and the pc-simple algorithm,616,adaptive sampling for bayesian variable selection,972
+semiparametric dimension reduction estimation for mean response with missing data,619,semiparametric model-based inference in the presence of missing responses,473
+efficient estimation in multi-phase case-control studies,623,fitting binary regression models with case-augmented samples,942
+calibrating parametric subject-specific risk estimation,625,semiparametric box-cox power transformation models for censored survival observations,999
+calibrating parametric subject-specific risk estimation,625,a general approach to the predictability issue in survival analysis with applications,821
+interval estimation for drop-the-losers designs,626,adaptive two-stage test procedures to find the best treatment in clinical trials,1044
+interval estimation for drop-the-losers designs,626,adaptive and nonadaptive group sequential tests,953
+the horseshoe estimator for sparse signals,630,objective bayesian model selection in gaussian graphical models,682
+the horseshoe estimator for sparse signals,630,bayesian lasso regression,668
+likelihood ratio statistics based on an integrated likelihood,631,integrated likelihood functions for non-bayesian inference,834
+likelihood ratio statistics based on an integrated likelihood,631,on the implementation of local probability matching priors for interest parameters,1033
+objective bayes and conditional inference in exponential families,632,conditional properties of unconditional parametric bootstrap procedures for inference in exponential families,475
+cross-covariance functions for multivariate random fields based on latent dimensions,636,testing the covariance structure of multivariate random fields,444
+incorporating prior probabilities into high-dimensional classifiers,637,"scale adjustments for classifiers in high-dimensional, low sample size settings",416
+marginal analyses of longitudinal data with an informative pattern of observations,639,mean estimating equation approach to analysing cluster-correlated data with nonignorable cluster sizes,1021
+generalized empirical likelihood methods for analyzing longitudinal data,640,empirical likelihood semiparametric regression analysis for longitudinal data,824
+generalized empirical likelihood methods for analyzing longitudinal data,640,modelling of covariance structures in generalised estimating equations for longitudinal data,901
+stochastic approximation with virtual observations for dose-finding on discrete levels,642,coherence principles in dose-finding studies,980
+a semiparametric random effects model for multivariate competing risks data,644,nonparametric estimation of bivariate failure time associations in the presence of a competing risk,809
+a semiparametric random effects model for multivariate competing risks data,644,nonparametric estimation of cause-specific cross hazard ratio with bivariate competing risks data,810
+a semiparametric random effects model for multivariate competing risks data,644,predicting cumulative incidence probability by direct binomial regression,808
+estimation of the retransformed conditional mean in health care cost studies,645,smooth quantile ratio estimation,994
+a note on the sensitivity to assumptions of a generalized linear mixed model,650,on the consequences of overstratification,457
+the maximal data piling direction for discrimination,656,"the high-dimension, low-sample-size geometric representation holds under mild conditions",851
+bayesian analysis of matrix normal graphical models,658,simulation of hyper-inverse wishart distributions in graphical models,842
+nonparametric estimation for right-censored length-biased data: a pseudo-partial likelihood approach,659,pseudo-partial likelihood for proportional hazards models with biased-sampling data,689
+tests and confidence intervals for secondary endpoints in sequential clinical trials,661,confidence intervals in group sequential trials with random group sizes and applications to survival analysis,923
+generalized fiducial inference for wavelet regression,669,saddlepoint approximation for mixture models,417
+generalized fiducial inference for wavelet regression,669,posterior probability intervals in bayesian wavelet estimation,1103
+a unified approach to linearization variance estimation from survey data after imputation for item nonresponse,671,fractional hot deck imputation,1070
+some design properties of a rejective sampling procedure,672,efficient balanced sampling: the cube method,1060
+nested latin hypercube designs,674,a construction method for orthogonal latin hypercube designs,934
+construction of orthogonal latin hypercube designs,675,orthogonal and nearly orthogonal designs for computer experiments,423
+construction of orthogonal latin hypercube designs,675,construction of orthogonal and nearly orthogonal latin hypercubes,439
+construction of orthogonal latin hypercube designs,675,a construction method for orthogonal latin hypercube designs,934
+maximum likelihood estimation using composite likelihoods for closed exponential families,676,a note on pseudolikelihood constructed from marginal densities,1081
+maximum likelihood estimation using composite likelihoods for closed exponential families,676,a note on composite likelihood inference and model selection,992
+a note on automatic variable selection using smooth-threshold estimating equations,677,tuning parameter selectors for the smoothly clipped absolute deviation method,836
+a note on adaptive bonferroni and holm procedures under dependence,678,adaptive linear step-up procedures that control the false discovery rate,913
+"'a group bridge approach for variable selection' (vol 96, pg 339, 2009)",680,a group bridge approach for variable selection,407
+objective bayesian model selection in gaussian graphical models,682,monte carlo method for computing the marginal likelihood in nondecomposable gaussian graphical models,1012
+objective bayesian model selection in gaussian graphical models,682,simulation of hyper-inverse wishart distributions in graphical models,842
+asymptotic properties of penalized spline estimators,684,theory for penalised spline regression,1037
+asymptotic properties of penalized spline estimators,684,on the asymptotics of penalized splines,488
+induced smoothing for the semiparametric accelerated failure time model: asymptotics and extensions to clustered data,687,standard errors and covariance matrices for smoothed rank estimators,1040
+induced smoothing for the semiparametric accelerated failure time model: asymptotics and extensions to clustered data,687,on least-squares regression with censored data,964
+induced smoothing for the semiparametric accelerated failure time model: asymptotics and extensions to clustered data,687,the accelerated gap times model,1001
+weighted breslow-type and maximum likelihood estimation in semiparametric transformation models,688,efficient estimation of semiparametric transformation models for counting processes,922
+pseudo-partial likelihood for proportional hazards models with biased-sampling data,689,pseudo-partial likelihood estimators for the cox regression model with missing covariates,690
+pseudo-partial likelihood estimators for the cox regression model with missing covariates,690,pseudo-partial likelihood for proportional hazards models with biased-sampling data,689
+optimal repeated measurement designs for a model with partial interactions,694,on optimal crossover designs when carryover effects are proportional to direct effects,921
+effects of data dimension on empirical likelihood,696,on bartlett correction of empirical likelihood in the presence of nuisance parameters,969
+effects of data dimension on empirical likelihood,696,testing for complete independence in high dimensions,986
+sparse estimation of a covariance matrix,700,estimation of a covariance matrix with zeros,886
+sparse estimation of a covariance matrix,700,covariance matrix selection and estimation via penalised normal likelihood,959
+sparse estimation of a covariance matrix,700,a new approach to cholesky-based covariance regularization in high dimensions,600
+sparse estimation of a covariance matrix,700,model selection and estimation in the gaussian graphical model,874
+the aalen additive gamma frailty hazards model,701,aalen additive hazards change-point model,820
+the aalen additive gamma frailty hazards model,701,additive hazards model with multivariate failure time data,1054
+optimizing randomized trial designs to distinguish which subpopulations benefit from treatment,702,adaptive two-stage test procedures to find the best treatment in clinical trials,1044
+optimizing randomized trial designs to distinguish which subpopulations benefit from treatment,702,interval estimation for drop-the-losers designs,626
+covariate selection for the nonparametric estimation of an average treatment effect,703,the prognostic analogue of the propensity score,492
+a goodness-of-fit test of logistic regression models for case-control data with measurement error,704,testing goodness-of-fit in logistic case-control studies,869
+estimation of latent factors for high-dimensional time series,706,modelling multiple time series via common factors,485
+inverse probability weighting for clustered nonresponse,709,improving efficiency and robustness of the doubly robust estimator for a population mean with incomplete data,697
+false discovery rate for scanning statistics,710,detecting simultaneous changepoints in multiple sequences,606
+generalized linear time series regression,712,identification of the age-period-cohort model and the extended chain-ladder model,455
+generalized linear time series regression,712,forecasting with the age-period-cohort model and the extended chain-ladder model,456
+forward adaptive banding for estimating large covariance matrices,715,covariance matrix selection and estimation via penalised normal likelihood,959
+"blocking, efficiency and weighted optimality",716,optimal nested row-column designs with specified components,867
+bayesian isotonic density regression,719,bayesian nonparametric inference on stochastic ordering,447
+bayesian isotonic density regression,719,kernel stick-breaking processes,481
+bayesian isotonic density regression,719,retrospective markov chain monte carlo methods for dirichlet process hierarchical models,806
+sample size formulae for two-stage randomized trials with survival outcomes,720,supremum weighted log-rank test and sample size for comparing two-stage adaptive treatment strategies,471
+sample size formulae for two-stage randomized trials with survival outcomes,720,semiparametric efficient estimation of survival distributions in two-stage randomisation designs in clinical trials with censored data,965
+the covariate-adaptive biased coin design for balancing clinical trials in the presence of prognostic factors,721,a theory for testing hypotheses under covariate-adaptive randomization,622
+functional mixed effects spectral analysis,724,multivariate spectral analysis using cholesky decomposition,1075
+functional mixed effects spectral analysis,724,equivalent kernels of smoothing splines in nonparametric regression for clustered/longitudinal data,1116
+conditional akaike information under generalized linear and proportional hazards mixed models,726,a note on conditional aic for linear mixed-effects models,477
+conditional akaike information under generalized linear and proportional hazards mixed models,726,conditional akaike information for mixed-effects models,1017
+aggregation-cokriging for highly multivariate spatial data,727,cross-covariance functions for multivariate random fields based on latent dimensions,636
+efficient restricted estimators for conditional mean models with missing data,730,a note on semiparametric efficient inference for two-stage outcome-dependent sampling with a continuous outcome,436
+generalized varying coefficient models with unknown link function,731,identitiability of single-index models and additive-index models,870
+sudoku-based space-filling designs,732,sliced space-filling designs,673
+nested orthogonal array-based latin hypercube designs,733,nested latin hypercube designs,674
+robust designs through partially clear two-factor interactions,734,orthogonal arrays robust to nonnegligible two-factor interactions,963
+on protected estimation of an odds ratio model with missing binary exposure and confounders,736,on doubly robust estimation in a semiparametric odds ratio model,647
+multinomial logit bias reduction via the poisson log-linear model,737,bias reduction in exponential family nonlinear models,666
+false discovery rates and copy number variation,738,detecting simultaneous changepoints in multiple sequences,606
+time-dependent cross ratio estimation for bivariate failure times,743,nonparametric estimation of bivariate failure time associations in the presence of a competing risk,809
+time-dependent cross ratio estimation for bivariate failure times,743,semiparametric maximum likelihood estimation in normal transformation models for bivariate survival data,453
+efficient semiparametric regression for longitudinal data with nonparametric covariance estimation,744,equivalent kernels of smoothing splines in nonparametric regression for clustered/longitudinal data,1116
+maximum likelihood estimation of a generalized threshold stochastic regression model,746,"a generalized threshold mixed model for analyzing nonnormal nonlinear time series, with application to plague in kazakhstan",880
+maximum smoothed likelihood for multivariate mixtures,749,nonparametric inference in multivariate mixtures,1002
+distribution estimators and confidence intervals for stereological volumes,750,systematic sampling with errors in sample locations,635
+on balanced random imputation in surveys,752,efficient balanced sampling: the cube method,1060
+on balanced random imputation in surveys,752,fractional hot deck imputation,1070
+empirical likelihood for small area estimation,753,empirical-type likelihoods allowing posterior credible sets with frequentist validity: higher-order asymptotics,928
+empirical likelihood for small area estimation,753,expected lengths of confidence intervals based on empirical discrepancy statistics,1027
+empirical likelihood for small area estimation,753,bayesian exponentially tilted empirical likelihood,1032
+on the likelihood function of gaussian max-stable processes,754,a note on pseudolikelihood constructed from marginal densities,1081
+on the likelihood function of gaussian max-stable processes,754,a note on composite likelihood inference and model selection,992
+joint estimation of multiple graphical models,757,model selection for gaussian concentration graphs,1072
+joint estimation of multiple graphical models,757,model selection and estimation in the gaussian graphical model,874
+the multivariate beta process and an extension of the polya tree model,758,kernel stick-breaking processes,481
+bootstrap inference for mean reflection shape and size-and-shape with three-dimensional landmark data,760,a multi-dimensional scaling approach to shape analysis,442
+parametric fractional imputation for missing data analysis,765,a unified approach to linearization variance estimation from survey data after imputation for item nonresponse,671
+parametric fractional imputation for missing data analysis,765,fractional hot deck imputation,1070
+partial envelopes for efficient estimation in multivariate linear regression,766,dimension reduction in regression without matrix inversion,837
+estimation of covariate effects in generalized linear mixed models with informative cluster sizes,767,mean estimating equation approach to analysing cluster-correlated data with nonignorable cluster sizes,1021
+a unified framework for studying parameter identifiability and estimation in biased sampling designs,768,serniparametric maximum likelihood estimation exploiting gene-environment independence in case-control studies,1013
+nonparametric estimation for length-biased and right-censored data,769,nonparametric estimation for right-censored length-biased data: a pseudo-partial likelihood approach,659
+variance estimation for generalized cavalieri estimators,770,systematic sampling with errors in sample locations,635
+data-driven selection of the spline dimension in penalized spline regression,773,asymptotic properties of penalized spline estimators,684
+data-driven selection of the spline dimension in penalized spline regression,773,on the asymptotics of penalized splines,488
+recapture models under equality constraints for the conditional capture probabilities,775,inference on population size in binomial detectability models,667
+estimation of controlled direct effects on a dichotomous outcome using logistic structural direct effect models,780,estimation of treatment effects in randomised trials with non-compliance and a dichotomous outcome using structural mean models,1052
+on the behaviour of marginal and conditional aic in linear mixed models,785,a note on conditional aic for linear mixed-effects models,477
+on the behaviour of marginal and conditional aic in linear mixed models,785,conditional akaike information for mixed-effects models,1017
+noncrossing quantile regression curve estimation,787,improving point and interval estimators of monotone functions by rearrangement,686
+censored quantile regression with partially functional effects,788,predicting cumulative incidence probability by direct binomial regression,808
+nonparametric bayesian density estimation on manifolds with applications to planar shapes,789,retrospective markov chain monte carlo methods for dirichlet process hierarchical models,806
+a weighted estimating equation approach for inhomogeneous spatial point processes,790,fast block variance estimation procedures for inhomogeneous spatial point processes,435
+penalized high-dimensional empirical likelihood,791,on bartlett correction of empirical likelihood in the presence of nuisance parameters,969
+penalized high-dimensional empirical likelihood,791,effects of data dimension on empirical likelihood,696
+varying coefficient transformation models with censored data,794,efficient estimation of semiparametric transformation models for counting processes,922
+on the equivalence of prospective and retrospective likelihood methods in case-control studies,796,equivalence of prospective and retrospective models in the bayesian analysis of case-control studies,1105
+"on a conjectured sharpness principle for probabilistic forecasting with calibration (vol 96, pg 1019, 2009)",798,a note on a conjectured sharpness principle for probabilistic forecasting with calibration,679
+penalized likelihood methods for estimation of sparse high-dimensional directed acyclic graphs,799,covariance matrix selection and estimation via penalised normal likelihood,959
+penalized likelihood methods for estimation of sparse high-dimensional directed acyclic graphs,799,model selection and estimation in the gaussian graphical model,874
+predicting future responses based on possibly mis-specified working models,800,model evaluation based on the sampling distribution of estimated absolute prediction error,856
+predicting future responses based on possibly mis-specified working models,800,the optimal confidence region for a random parameter,987
+nonparametric regression using local kernel estimating equations for correlated failure time data,803,equivalent kernels of smoothing splines in nonparametric regression for clustered/longitudinal data,1116
+bayesian and frequentist confidence intervals arising from empirical-type likelihoods,804,empirical-type likelihoods allowing posterior credible sets with frequentist validity: higher-order asymptotics,928
+bayesian and frequentist confidence intervals arising from empirical-type likelihoods,804,expected lengths of confidence intervals based on empirical discrepancy statistics,1027
+bayesian and frequentist confidence intervals arising from empirical-type likelihoods,804,bayesian exponentially tilted empirical likelihood,1032
+predicting cumulative incidence probability by direct binomial regression,808,temporal process regression,1078
+nonparametric estimation of bivariate failure time associations in the presence of a competing risk,809,nonparametric estimation of cause-specific cross hazard ratio with bivariate competing risks data,810
+nonparametric estimation of cause-specific cross hazard ratio with bivariate competing risks data,810,nonparametric estimation of bivariate failure time associations in the presence of a competing risk,809
+a note on path-based variable selection in the penalized proportional hazards model,811,vairiable selection for multivariate failure time data,1015
+asymptotic inference for a nonstationary double ar(1) model,814,weighted least absolute deviations estimation for an ar(1) process with arch(1) errors,1024
+empirical likelihood semiparametric regression analysis for longitudinal data,824,profile-kernel versus backfitting in the partially linear models for longitudinal/clustered data,1086
+a hybrid pairwise likelihood method,825,a note on pseudolikelihood constructed from marginal densities,1081
+a hybrid pairwise likelihood method,825,permutation invariance of alternating logistic regression for multivariate binary data,1085
+miscellanea kernel-type density estimation on the unit interval,828,efficient bayesian inference for gaussian copula regression models,916
+importance sampling via the estimated sampler,829,a paradox concerning nuisance parameters and projected estimating functions,1062
+"use of the gibbs sampler to obtain conditional tests, with applications",830,monte carlo conditioning on a sufficient statistic,1022
+cholesky decompositions and estimation of a covariance matrix: orthogonality of variance-correlation parameters,832,multivariate spectral analysis using cholesky decomposition,1075
+sparse sufficient dimension reduction,839,a note on shrinkage sliced inverse regression,1048
+simulation of hyper-inverse wishart distributions in graphical models,842,monte carlo method for computing the marginal likelihood in nondecomposable gaussian graphical models,1012
+recursive computing and simulation-free inference for general factorizable models,843,efficient recursions for general factorisable models,1084
+survival analysis with temporal covariate effects,847,temporal process regression,1078
+"nonparametric inference in multivariate mixtures (vol 92, pg 667, 2005)",852,nonparametric inference in multivariate mixtures,1002
+model evaluation based on the sampling distribution of estimated absolute prediction error,856,semiparametric box-cox power transformation models for censored survival observations,999
+automatic estimation of multivariate spectra via smoothing splines,858,multivariate spectral analysis using cholesky decomposition,1075
+bayesian predictive information criterion for the evaluation of hierarchical bayesian and empirical bayes models,866,bayesian information criteria and smoothing parameter selection in radial basis function networks,1106
+bayesian predictive information criterion for the evaluation of hierarchical bayesian and empirical bayes models,866,conditional akaike information for mixed-effects models,1017
+resampling-based empirical prediction: an application to small area estimation,868,on measuring the variability of small area estimators under a basic area level model,1043
+resampling-based empirical prediction: an application to small area estimation,868,small-area estimation based on natural exponential family quadratic variance function models and survey weights,1110
+testing goodness-of-fit in logistic case-control studies,869,minimum distance estimation for the logistic regression model,1007
+adjusting estimative prediction limits,872,frequentist prediction intervals and predictive distributions,993
+model selection and estimation in the gaussian graphical model,874,model selection for gaussian concentration graphs,1072
+graphical identifiability criteria for causal effects in studies with an unobserved treatment/response variable,875,on identification of multi-factor models with correlated residuals,1113
+graphical identifiability criteria for causal effects in studies with an unobserved treatment/response variable,875,on the idenfification of path analysis models with one hidden variable,1016
+inference for clustered data using the independence loglikelihood,884,a note on pseudolikelihood constructed from marginal densities,1081
+inference for clustered data using the independence loglikelihood,884,analysis of longitudinal data in case-control studies,1091
+inference for clustered data using the independence loglikelihood,884,assessing robustness of generalised estimating equations and quadratic inference functions,1099
+estimation of a covariance matrix with zeros,886,model selection for gaussian concentration graphs,1072
+estimation of a covariance matrix with zeros,886,multimodality of the likelihood in the bivariate seemingly unrelated regressions model,1095
+estimation of a covariance matrix with zeros,886,on identification of multi-factor models with correlated residuals,1113
+"nonparametric maximum likelihood estimation of the structural mean of a sample of curves (vol 92, pg 801, 2005)",910,nonparametric maximum likelihood estimation of the structural mean of a sample of curves,976
+"a construction method for orthogonal latin hypercube designs (vol 93, pg 279, 2006)",911,a construction method for orthogonal latin hypercube designs,934
+"using the periodogram to estimate period in nonparametric regression (vol 93, pg 411, 2006)",912,using the periodogram to estimate period in nonparametric regression,944
+false discovery control with p-value weighting,914,adaptive linear step-up procedures that control the false discovery rate,913
+differential effects and generic biases in observational studies,918,design sensitivity in observational studies,1114
+on recovering a population covariance matrix in the presence of selection bias,920,on identification of multi-factor models with correlated residuals,1113
+a haar-fisz technique for locally stationary volatility estimation,926,parametric modelling of thresholds across scales in wavelet regression,949
+empirical-type likelihoods allowing posterior credible sets with frequentist validity: higher-order asymptotics,928,expected lengths of confidence intervals based on empirical discrepancy statistics,1027
+empirical-type likelihoods allowing posterior credible sets with frequentist validity: higher-order asymptotics,928,bayesian exponentially tilted empirical likelihood,1032
+empirical-type likelihoods allowing posterior credible sets with frequentist validity: higher-order asymptotics,928,on the implementation of local probability matching priors for interest parameters,1033
+linear life expectancy regression with censored data,936,semiparametric regression analysis of mean residual life with censored survival data,1031
+on the accelerated failure time model for current status and interval censored data,938,statistical inference based on non-smooth estimating functions,1063
+confidence bands for hazard rates under random censorship,940,nonparametric confidence intervals for receiver operating characteristic curves,1083
+an efficient markov chain monte carlo method for distributions with intractable normalising constants,947,efficient recursions for general factorisable models,1084
+rank-based regression for analysis of repeated measures,948,standard errors and covariance matrices for smoothed rank estimators,1040
+understanding nonparametric estimation for clustered data,952,equivalent kernels of smoothing splines in nonparametric regression for clustered/longitudinal data,1116
+efficient semiparametric estimator for heteroscedastic partially linear models,958,profile-kernel versus backfitting in the partially linear models for longitudinal/clustered data,1086
+efficient semiparametric estimator for heteroscedastic partially linear models,958,equivalent kernels of smoothing splines in nonparametric regression for clustered/longitudinal data,1116
+semiparametric transformation models for the case-cohort study,968,weighted estimating equations for semiparametric transformation models with censored data from a case-cohort design,1090
+semiparametric transformation models for the case-cohort study,968,on semiparametric transformation cure models,1092
+semiparametric estimators for the regression coefficients in the linear transformation competing risks model with missing cause of failure,981,on semiparametric transformation cure models,1092
+a note on composite likelihood inference and model selection,992,a note on pseudolikelihood constructed from marginal densities,1081
+locally-efficient robust estimation of haplotype-disease association in family-based studies,995,locally efficient semiparametric estimators for functional measurement error models,1056
+locally-efficient robust estimation of haplotype-disease association in family-based studies,995,estimating genetic association parameters from family data,1119
+semiparametric box-cox power transformation models for censored survival observations,999,statistical inference based on non-smooth estimating functions,1063
+on the idenfification of path analysis models with one hidden variable,1016,on identification of multi-factor models with correlated residuals,1113
+"equivalence of prospective and retrospective models in the bayesian analysis of case-control studies (vol 91, pg 15, 2004)",1029,equivalence of prospective and retrospective models in the bayesian analysis of case-control studies,1105
+"coordination, combination and extension of balanced samples",1061,efficient balanced sampling: the cube method,1060
+statistical inference based on non-smooth estimating functions,1063,statistical inference for infinite-dimensional parameters via asymptotically pivotal estimating functions,1109
+model selection for gaussian concentration graphs,1072,multimodality of the likelihood in the bivariate seemingly unrelated regressions model,1095
